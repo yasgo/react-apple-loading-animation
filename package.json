@@ -1,0 +1,39 @@
+{
+    "name": "react-apple-loading-animation",
+    "version": "1.1.1",
+    "description": "Apple loading animations for React.",
+    "main": "./dist/react-apple-loading-animation.js",
+    "scripts": {
+        "webpack": "webpack -p"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://yasgo@github.com/yasgo/react-apple-loading-animation.git"
+    },
+    "keywords": [
+        "react",
+        "apple",
+        "loading"
+    ],
+    "babel": {
+        "presets": [
+            "@babel/env",
+            "@babel/react"
+        ]
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.7",
+        "@babel/preset-env": "^7.12.7",
+        "@babel/preset-react": "^7.12.7",
+        "babel-loader": "^8.2.1",
+        "webpack": "^4.44.2",
+        "webpack-cli": "^3.3.12"
+    },
+    "author": "Yasin Burak Kalkan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yasgo/react-apple-loading-animation/issues"
+    },
+    "homepage": "https://github.com/yasgo/react-apple-loading-animation#readme",
+    "dependencies": {}
+}
